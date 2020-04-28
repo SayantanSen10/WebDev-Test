@@ -16,7 +16,7 @@ h1 {
 
 .col-md-4, .col-sm-6, .col-xs-12 {
   position: relative;
-  margin-left: 8px;
+  margin: 8px;
   height:225px;
   overflow:hidden;
   background-color: grey;
